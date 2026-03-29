@@ -1,0 +1,124 @@
+---
+layout: landing
+title: Home
+permalink: /
+---
+
+<section class="hero">
+  <div class="hero-copy">
+    <p class="eyebrow">Independent Publication</p>
+    <h1>Writing about infrastructure, privacy, security, and practical systems thinking.</h1>
+    <p class="hero-text">
+      This homepage is a polished dummy concept for your Jekyll site. It is designed to
+      position you as both a technical author and a publication owner, while still keeping
+      blog creation simple through standard Jekyll posts.
+    </p>
+    <div class="hero-actions">
+      <a class="button button-primary" href="{{ "/about/" | relative_url }}">Read the About Page</a>
+      <a class="button button-secondary" href="#recent-posts">Browse Recent Posts</a>
+    </div>
+  </div>
+  <aside class="hero-panel">
+    <p class="panel-label">Featured Publication</p>
+    <h2>Temp-Mail.fyi Journal</h2>
+    <p>
+      A publication-ready space for explainers, field notes, platform updates, editorial pieces,
+      and long-form technical writing.
+    </p>
+    <ul class="panel-points">
+      <li>Platform essays and security commentary</li>
+      <li>Operational tutorials and cloud walkthroughs</li>
+      <li>Founder updates and product storytelling</li>
+    </ul>
+  </aside>
+</section>
+
+<section class="highlights">
+  <article class="card">
+    <p class="card-kicker">Why This Direction</p>
+    <h2>Built to showcase a publication, not just a profile.</h2>
+    <p>
+      The layout leads with your editorial identity, then supports it with technical authority,
+      topic areas, and a clean path into the archive.
+    </p>
+  </article>
+  <article class="card">
+    <p class="card-kicker">Blog Workflow</p>
+    <h2>Keep publishing simple with Jekyll posts.</h2>
+    <p>
+      New articles can still be added by creating files in <code>_posts/</code>, so the writing
+      workflow stays lightweight while the presentation feels much more intentional.
+    </p>
+  </article>
+</section>
+
+<section class="topics">
+  <div class="section-heading">
+    <p class="eyebrow">Editorial Focus</p>
+    <h2>Core topic areas you can publish under</h2>
+  </div>
+  <div class="topic-grid">
+    <article class="topic-card">
+      <h3>Cloud & Infrastructure</h3>
+      <p>Architecture notes, migration stories, platform comparisons, and lessons from enterprise operations.</p>
+    </article>
+    <article class="topic-card">
+      <h3>Security & Privacy</h3>
+      <p>Threat awareness, privacy-first tooling, access control, and practical security writing for real systems.</p>
+    </article>
+    <article class="topic-card">
+      <h3>Automation & Operations</h3>
+      <p>PowerShell workflows, operational tooling, and repeatable methods for reducing manual overhead.</p>
+    </article>
+    <article class="topic-card">
+      <h3>Founder Notes</h3>
+      <p>Behind-the-scenes updates, product thinking, and publication editorials tied to Temp-Mail.fyi.</p>
+    </article>
+  </div>
+</section>
+
+<section class="publishing-strip">
+  <div>
+    <p class="eyebrow">Content Engine</p>
+    <h2>Suggested content mix for this site</h2>
+  </div>
+  <div class="publishing-list">
+    <p>Tutorials that solve a specific technical problem</p>
+    <p>Opinion pieces on privacy, email abuse, and internet hygiene</p>
+    <p>Short release notes or product updates from your publication</p>
+    <p>Long-form essays that build authority around your expertise</p>
+  </div>
+</section>
+
+<section class="recent-posts" id="recent-posts">
+  <div class="section-heading">
+    <p class="eyebrow">Recent Writing</p>
+    <h2>Latest posts from the archive</h2>
+  </div>
+  {%- if site.posts.size > 0 -%}
+  <div class="post-stack">
+    {%- for post in site.posts limit:3 -%}
+    <article class="post-card">
+      <p class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</p>
+      <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+      <p>{{ post.excerpt | strip_html | normalize_whitespace | truncate: 180 }}</p>
+    </article>
+    {%- endfor -%}
+  </div>
+  {%- else -%}
+  <div class="empty-state">
+    <p>No posts yet. Add a new Markdown file to <code>_posts/</code> and it will appear here automatically.</p>
+  </div>
+  {%- endif -%}
+</section>
+
+<section class="cta-band">
+  <div>
+    <p class="eyebrow">Next Step</p>
+    <h2>Use this dummy homepage as the base for your real publication front page.</h2>
+  </div>
+  <p>
+    From here, we can add categories, featured articles, publication branding, author callouts,
+    newsletter capture, or a custom article layout.
+  </p>
+</section>

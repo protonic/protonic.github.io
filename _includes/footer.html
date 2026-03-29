@@ -1,0 +1,14 @@
+<footer class="site-footer">
+  <div class="wrapper footer-shell">
+    <div>
+      <p class="footer-title">{{ site.title | escape }}</p>
+      <p class="footer-copy">{{ site.description | escape }}</p>
+    </div>
+    <div class="footer-links">
+      <a href="{{ "/about/" | relative_url }}">About</a>
+      <a href="{{ "/contact/" | relative_url }}">Contact</a>
+      <a href="{{ "/feed.xml" | relative_url }}">RSS</a>
+    </div>
+    <p class="footer-note">{{ site.footer | escape }}</p>
+  </div>
+</footer>

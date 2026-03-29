@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About 
+title: About
 permalink: /about/
 ---
 
-Welcome! My name is Pritam Suresh Khedekar. I am a technology professional with over 15 years of experience in IT infrastructure, cloud platforms, cybersecurity, application development and retail systems engineering.
+Welcome! My name is Pritam Suresh Khedekar. I am a technology professional with over 15 years of experience across IT infrastructure, cloud platforms, cybersecurity, application development, and retail systems engineering.
 
 **GitHub:** [https://github.com/protonic/](https://github.com/protonic/)  
 **Contact:** pritamkhedekarr[at]gmail[dot]com
@@ -63,9 +63,11 @@ Temp-Mail.fyi is an independent project maintained by me and is continuously imp
 
 ## Quick Links
 
-- [Blog](https://temp-mail.fyi/blog/)
-- [About](https://temp-mail.fyi/about/index.php)
-- [Contact](https://temp-mail.fyi/contact/)
+- [Home]({{ "/" | relative_url }})
+- [About]({{ "/about/" | relative_url }})
+- [Contact]({{ "/contact/" | relative_url }})
+- [GitHub](https://github.com/protonic/)
+- [Temp-Mail.fyi](https://temp-mail.fyi/)
 - [FAQ](https://temp-mail.fyi/faq/)
 - [Privacy Policy](https://temp-mail.fyi/privacy/)
 - [Terms of Service](https://temp-mail.fyi/terms/)
@@ -73,4 +75,4 @@ Temp-Mail.fyi is an independent project maintained by me and is continuously imp
 - [Editorial Policy](https://temp-mail.fyi/editorial-policy/)
 - [Browser Extensions](https://temp-mail.fyi/temp-mail-browser-extensions/)
 
-© 2026 Pritam Suresh Khedekar. All rights reserved.
+Copyright 2026 Pritam Suresh Khedekar. All rights reserved.

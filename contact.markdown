@@ -1,25 +1,26 @@
 ---
 layout: page
-title: Contact 
-permalink: /about/contact/
+title: Contact
+permalink: /contact/
 ---
 
-You can tweet me on X formarly known as twitter.
+You can reach me on X or by email for collaboration, publication-related questions, or responsible disclosures.
 
-**X (twitter):** [@pritamkhedekar](https://x.com/pritamkhedekar/)  
-**Contact:** [at]pritamkhedekar
+**X (Twitter):** [@pritamkhedekar](https://x.com/pritamkhedekar/)  
+**GitHub:** [protonic](https://github.com/protonic/)
 
 ---
-**Email:** [pritamkhedekarr@gmail.com](pritamkhedekarr@gmail.com)  
----
+
+**Email:** [pritamkhedekarr@gmail.com](mailto:pritamkhedekarr@gmail.com)
 
 ---
 
 ## Quick Links
 
-- [Blog](https://temp-mail.fyi/blog/)
-- [About](https://temp-mail.fyi/about/index.php)
-- [Contact](https://temp-mail.fyi/contact/)
+- [Home]({{ "/" | relative_url }})
+- [About]({{ "/about/" | relative_url }})
+- [Contact]({{ "/contact/" | relative_url }})
+- [Temp-Mail.fyi](https://temp-mail.fyi/)
 - [FAQ](https://temp-mail.fyi/faq/)
 - [Privacy Policy](https://temp-mail.fyi/privacy/)
 - [Terms of Service](https://temp-mail.fyi/terms/)
@@ -27,4 +28,4 @@ You can tweet me on X formarly known as twitter.
 - [Editorial Policy](https://temp-mail.fyi/editorial-policy/)
 - [Browser Extensions](https://temp-mail.fyi/temp-mail-browser-extensions/)
 
-© 2026 Pritam Suresh Khedekar. All rights reserved.
+Copyright 2026 Pritam Suresh Khedekar. All rights reserved.
