@@ -17,4 +17,4 @@ theme: minima
 plugins:
   - jekyll-feed
 
-footer: "Copyright 2026 Pritam Suresh Khedekar. All rights reserved."
+footer: "(C) 2026 Pritam Khedekar. All rights reserved."
