@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Welcome! My name is Pritam Suresh Khedekar. I am a technology professional with over 15 years of experience in IT infrastructure, cloud platforms, cybersecurity and retail systems engineering.
+Welcome! My name is Pritam Suresh Khedekar. I am a technology professional with over 15 years of experience in IT infrastructure, cloud platforms, cybersecurity, application development and retail systems engineering.
 
 **GitHub:** [https://github.com/protonic/](https://github.com/protonic/)  
 **Contact:** admin[at]temp[dash]mail[dot]fyi
