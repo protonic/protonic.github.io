@@ -5,7 +5,7 @@ description: >-
   Independent writing on infrastructure, cloud operations, privacy tooling,
   cybersecurity, and practical systems engineering.
 baseurl: ""
-url: ""
+url: "https://pritamkhedekar.com"
 twitter_username: pritamkhedekarr
 github_username: protonic
 header_pages:
