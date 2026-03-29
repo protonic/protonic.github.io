@@ -1,10 +1,8 @@
 ---
 layout: page
-title: About
+title: About 
 permalink: /about/
 ---
-
-# About Pritam Suresh Khedekar
 
 Welcome! My name is Pritam Suresh Khedekar. I am a technology professional with over 13 years of experience in IT infrastructure, cloud platforms, and cybersecurity engineering.
 
