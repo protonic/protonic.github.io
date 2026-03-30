@@ -9,7 +9,7 @@ venue: 'To be publiched'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://academicpages.github.io/files/paper1.pdf'
 bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Pritam Khedekar, Pritam. (2026). &quot;The era of supercommerce [Research by Pritam Khedekar].&quot; <i>To be publiched</i>. 1(1).'
+citation: 'Pritam Khedekar, Pritam. (2026). &quot;The era of supercommerce [Research by Pritam Khedekar].&quot; <i>pritamkhedekar.com</i>. 1(1).'
 ---
 ## What is supercommerce? 
 Super commerce is a tactical term introduced by Pritam Khedekar that is applied to a study of global trade based economy.
