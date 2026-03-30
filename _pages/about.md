@@ -62,6 +62,7 @@ Retail L1 and L2 (2025)
 
 ## My inventions
 1.  Email privacy application [Temp Mail](https://temp-mail.fyi)
+
 This is an opensource application that is developed for the End users who are always using the personal email addresses for temporary signups. The application generates the temporary email addresses for users to sign up on temporary short term purposes.
 
 This site will continue evolving as a home for my publications, project experience, technical writing, and long-term professional portfolio.
