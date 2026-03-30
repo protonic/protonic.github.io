@@ -74,4 +74,3 @@ Tactical Application: Useful for strategy, system design, and policy
 ## 7. Concise Definition
 
 Supercommerce is the study and application of trade systems across hierarchical economic layers, enhanced by advanced technologies to enable scalable, efficient, and interconnected commercial activity from the individual to the global level.
-
