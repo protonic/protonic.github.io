@@ -1,13 +1,7 @@
 ---
-layout: post
-title: "How to identify and treat phishing email"
-date: 2026-03-29 00:07:17 -0400
-categories: cybersecurity
-permalink: /posts/2026/03/how-to-identify-and-treat-phishing-email.html
-
 title: 'How to identify and treat phishing email'
 date: 2026-03-29 00:07:17 -0400
-permalink: /posts/2026/03/
+permalink: /posts/2026/03/How-to-identify-and-treat-phishing-email
 tags:
   - cybersecurity
   - email

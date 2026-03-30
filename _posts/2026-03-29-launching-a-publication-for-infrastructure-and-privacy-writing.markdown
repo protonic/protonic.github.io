@@ -1,7 +1,7 @@
 ---
 title: 'Launching a Publication for Infrastructure and Privacy Writing'
 date: 2026-03-29 00:07:17 -0400
-permalink: /posts/2026/03/
+permalink: /posts/2026/03/Launching-a-Publication-for-Infrastructure-and-Privacy-Writing
 tags:
   - research
   - publication
