@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "1741735436333.jpg"
   name             : "Pritam Khedekar"
-  pronouns         : # "He/Him" # example: "He/Him" 
+  pronouns         : #  "He/Him" # example: "He/Him" 
   bio              : "An IT professional and a researcher"
   location         : "USA"
   employer         : "Capgemini America Inc."
@@ -68,7 +68,7 @@ author:
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
-  medium           : https://medium.com/@pritamkhedekarr # URL
+  medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
