@@ -25,12 +25,12 @@ author:
   # Biographic information
   avatar           : "1741735436333.jpg"
   name             : "Pritam Khedekar"
-  pronouns         : # example: "she/her"  
+  pronouns         : "He/Him" # example: "she/her"  
   bio              : "An IT professionaland a researcher"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "USA"
+  employer         : "Capgemini America Inc."
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "pritamkhedekarr@gmail.com" 
 
   # Academic websites
   academia         : # URL
