@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Pritam Khedekar"
 title_separator          : "-"
 name                     : &name "Pritam Khedekar"
-description              : &description "Pritam Khedekar's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Enterprise infrastructure, cloud architecture, cybersecurity, automation, and technical publications by Pritam Khedekar."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://protonic.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "1741735436333.jpg"
   name             : "Pritam Khedekar"
   pronouns         : #  "He/Him" # example: "He/Him" 
-  bio              : "An IT professional and a researcher"
+  bio              : "Infrastructure and security consultant focused on cloud, enterprise operations, automation, and technical research."
   location         : "USA"
   employer         : "Capgemini America Inc."
   uri              : # URL
